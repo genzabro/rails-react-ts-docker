@@ -1,4 +1,4 @@
-# rails-react-ts-docker
+# Setup
 
 ## build
 
